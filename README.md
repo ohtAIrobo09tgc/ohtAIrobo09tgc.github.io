@@ -1,13 +1,10 @@
 ## Welcome to GitHub Pages
 
-Markdown（マークダウン）は、**文章の書き方**です。デジタル文書を活用する方法として考案されました。特徴は、
+## プロフィール
 
-- 手軽に文章構造を明示できること
-- 簡単で、覚えやすいこと
-- 読み書きに特別なアプリを必要としないこと
-- それでいて、対応アプリを使えば快適に読み書きできること
-
-などです。Markdownはジョン・グルーバー（John Gruber）によって2004年に開発され、最初は [Daring Fireball: Markdown](http://daringfireball.net/projects/markdown/) で公開されました。その後、多くの開発者の手を経ながら発展してきました。
+田口暉継
+- 大阪ハイテクノロジー専門学校　人工知能学科　所属
+- 大阪市立都島工業高等学校　機械電気科　卒業
 
 You can use the [editor on GitHub](https://github.com/ohtAIrobo09tgc/ohtAIrobo09tgc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
